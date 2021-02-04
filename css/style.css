@@ -1,0 +1,36 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Components */
+@import url("components/btn.css");
+@import url("components/cards.css");
+@import url("components/header.css");
+@import url("components/banner.css");
+@import url("components/nav-list.css");
+@import url("components/container.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+    margin: 0;
+    font-family: Roboto, Open Sans;
+/*    display: flex;
+    justify-content: center;*/
+}
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+p1 {
+  font-size: 10px;
+  color: grey;
+}

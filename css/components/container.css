@@ -1,0 +1,15 @@
+.container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.container-header{
+  text-align: center;
+}
+
+.container-blocks{
+  display: flex;
+  justify-content: space-evenly;
+}

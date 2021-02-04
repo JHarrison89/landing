@@ -1,0 +1,39 @@
+
+
+#navlist{
+  padding-left: 0
+}
+
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+
+}
+
+.gold{
+  color:gold;
+}
+
+
+
+#blocks{
+  padding-left: 0
+}
+
+#blocks-list{
+      text-align: center;
+    padding: 0;
+    font-size: 50px;
+    margin: 0;
+    color: #6ad58b;
+}
+
+#blocks-list li
+{
+display: inline;
+list-style-type: none;
+}
+
+

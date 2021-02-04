@@ -1,0 +1,17 @@
+.banner{
+widh:100%;
+padding:10%;
+display:flex;
+justify-content: center;
+
+}
+
+.banner-right{
+  width:50%;
+  background: white
+
+}
+
+.banner-left{
+  width:50%;
+}

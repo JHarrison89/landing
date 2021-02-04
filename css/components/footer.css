@@ -1,0 +1,34 @@
+.footer{
+    width: 100%;
+    padding: 30px 10%;
+    border-bottom: solid 1px;
+    border-top: solid 1px grey;
+    margin-top: 2%;
+    display: flex;
+    justify-content: left;
+    background-color: #f1f2fa;
+}
+
+.footer li{
+  color: #8189a9;
+  list-style-type: none;
+  font-weight:lighter;
+  font-size: 12px;
+}
+
+.footer ul{
+padding: 0;
+}
+
+
+.footer-block-1{
+  width:150px;
+}
+
+.footer-block-2{
+  width:150px;
+}
+
+.footer-block-3{
+  width:150px;
+}

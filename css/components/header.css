@@ -1,0 +1,28 @@
+.header{
+  width: 100%;
+  padding: 10px 10%;
+  border-bottom: solid 1px;
+}
+
+.header #navlist {
+  justify-content: left;
+    align-items: center;
+    display: flex;
+}
+
+.header #navcontainer #navlist {
+  font-weight:bold;
+}
+
+
+.header #navcontainer #navlist li:hover {
+  font-weight:bold;
+  text-decoration: underline;
+  color:grey;
+}
+
+
+.logo{
+  height:50px;
+
+}
